@@ -1,12 +1,12 @@
 #include <OctoWS2811.h>
 #define LED_STRIP_COUNT       6    // 6
-#define RAINBOW_COLORS        100 // 180
+#define RAINBOW_COLORS        180 // 180
 #define CYCLE_TIME_IN_MS      10000 // 18000 // 1000
 #define BRIGHTNESS_CYCLE_TIME_IN_MS     5000 // 1000 , unused
-#define DEFAULT_BRIGHTNESS              50
-#define DEFAULT_SATURATION              200
+#define DEFAULT_LIGHTNESS              50
+#define DEFAULT_SATURATION              100
 const int ledsPerStrip = 144;
-int cur_lightness = DEFAULT_BRIGHTNESS;
+int cur_lightness = DEFAULT_LIGHTNESS;
 DMAMEM int displayMemory[ledsPerStrip*LED_STRIP_COUNT];
 int drawingMemory[ledsPerStrip*LED_STRIP_COUNT];
 
@@ -23,7 +23,7 @@ void setup() {
   for (int i=0; i<RAINBOW_COLORS; i++) {
     int hue = i * 2;
     int saturation = DEFAULT_SATURATION;
-    cur_lightness = DEFAULT_BRIGHTNESS;
+    cur_lightness = DEFAULT_LIGHTNESS;
     // pre-compute the 180 rainbow colors
     rainbowColors[i] = makeColor(hue, saturation, cur_lightness);
   }
