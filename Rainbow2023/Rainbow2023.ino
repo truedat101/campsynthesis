@@ -1,39 +1,26 @@
 #include <OctoWS2811.h>
-<<<<<<< HEAD
-#define LED_STRIP_COUNT       6    // 6
-#define RAINBOW_COLORS        180 // 180
-#define CYCLE_TIME_IN_MS      10000 // 18000 // 1000
-#define BRIGHTNESS_CYCLE_TIME_IN_MS     5000 // 1000 , unused
-#define DEFAULT_LIGHTNESS              50
-#define DEFAULT_SATURATION              100
-const int ledsPerStrip = 144;
-int cur_lightness = DEFAULT_LIGHTNESS;
-DMAMEM int displayMemory[ledsPerStrip*LED_STRIP_COUNT];
-int drawingMemory[ledsPerStrip*LED_STRIP_COUNT];
-=======
 
 const int ledsPerStrip = 50;
 
 DMAMEM int displayMemory[ledsPerStrip*6];
 int drawingMemory[ledsPerStrip*6];
->>>>>>> 4eb5ad5b6ad484da78b710ee3f618d76d7ceec2c
 
 const int config = WS2811_GRB | WS2811_800kHz;
 
 OctoWS2811 leds(ledsPerStrip, displayMemory, drawingMemory, config);
 
-int rainbowColors[RAINBOW_COLORS];
+int rainbowColors[180];
 
 
 void setup() {
   pinMode(1, OUTPUT);
   digitalWrite(1, HIGH);
-  for (int i=0; i<RAINBOW_COLORS; i++) {
+  for (int i=0; i<180; i++) {
     int hue = i * 2;
-    int saturation = DEFAULT_SATURATION;
-    cur_lightness = DEFAULT_LIGHTNESS;
+    int saturation = 100;
+    int lightness = 50;
     // pre-compute the 180 rainbow colors
-    rainbowColors[i] = makeColor(hue, saturation, cur_lightness);
+    rainbowColors[i] = makeColor(hue, saturation, lightness);
   }
   digitalWrite(1, LOW);
   leds.begin();
@@ -57,7 +44,7 @@ void rainbow(int phaseShift, int cycleTime)
 {
   int color, x, y, wait;
 
-  wait = cycleTime * CYCLE_TIME_IN_MS / ledsPerStrip;
+  wait = cycleTime * 1000 / ledsPerStrip;
   for (color=0; color < 180; color++) {
     digitalWrite(1, HIGH);
     for (x=0; x < ledsPerStrip; x++) {
