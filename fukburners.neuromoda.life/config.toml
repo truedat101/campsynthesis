@@ -1,0 +1,13 @@
+baseURL = "https://fukburners.neuromoda.life"
+languageCode = "en-us"
+title = "FUK Burners"
+theme = "reveal-hugo"
+enableEmoji = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
