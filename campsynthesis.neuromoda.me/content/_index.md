@@ -53,6 +53,11 @@ Looking for:
 
 People to get involved with the events (1-2 for the week).  Put in some funds for logistics.  Help with set up and tear down.  Bring your international flavor.
 
+---
+
+# About: More details about camp
+
+We don't have dues if you get involved.  If you just want to show up, we ask for $500 per camper in advance to cover infrasturcture costs (sake, sushi, logistics).  Please plan to be self sufficient. We don't run the sushi bar as a cafeteria for camp.  It's too complicated to do that.  Bring your food, and if you help with events, there is always food available. 
 
 ---
 
