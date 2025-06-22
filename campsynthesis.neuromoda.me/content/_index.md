@@ -47,7 +47,7 @@ based in Fukuoka, Osaka, SF, Silicon Valley, OR, and Las Vegas
 
 # About: Camp Synthesis
 
-This is the camp.  We are placed at B and 5:45.  The Camp has a Japanese theme, focused on Sushi, Sake, and Synths.  We have DJ decks and sound.  We have a group from Osaka in camp. 
+This is the camp.  We are placed at B and 5:45.  The Camp has a Japanese theme, focused on Sushi, Sake, and Synths.  We have DJ decks and sound.  We have some synths.  We run public food and bar events. We have a group from Osaka in camp. 
 
 Looking for:
 
