@@ -1,0 +1,13 @@
+baseURL = "https://campsynthesis.neuromoda.me"
+languageCode = "en-us"
+title = "Camp Synthesis"
+theme = "reveal-hugo"
+enableEmoji = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
