@@ -24,19 +24,6 @@ based in Fukuoka, Osaka, SF, Silicon Valley, OR, and Las Vegas
 
 ---
 
-# Timeline
-
-## Buy Tickets in April 2025
-
-## Make a project for our camp
-
-## The Man Burns at the end of August 2025
-
-## This happens Every Year
-
-
----
-
 # Call To Action
 
 1) Join Camp Synthesis
@@ -45,7 +32,7 @@ based in Fukuoka, Osaka, SF, Silicon Valley, OR, and Las Vegas
 
 ---
 
-# About: Camp Synthesis
+## About: Camp Synthesis
 
 This is the camp.  We are placed at B and 5:45.  The Camp has a Japanese theme, focused on Sushi, Sake, and Synths.  We have DJ decks and sound.  We have some synths.  We run public food and bar events. We have a group from Osaka in camp. 
 
@@ -55,7 +42,7 @@ People to get involved with the events (1-2 for the week).  Put in some funds fo
 
 ---
 
-# About: More details about camp
+## About: More details about camp
 
 We don't have dues if you get involved.  If you just want to show up, we ask for $500 per camper in advance to cover infrasturcture costs (sake, sushi, logistics).  Please plan to be self sufficient. We don't run the sushi bar as a cafeteria for camp.  It's too complicated to do that.  Bring your food, and if you help with events, there is always food available. 
 
@@ -89,6 +76,19 @@ http://slides.com/burninja/deck-3#/
 Official "Japan" Regional
 
 http://regionals.burningman.org/regionals/asia/japan/
+
+---
+
+# Timeline
+
+## Buy Tickets in April 2025
+
+## Make a project for our camp
+
+## The Man Burns at the end of August 2025
+
+## This happens Every Year
+
 
 ---
 
