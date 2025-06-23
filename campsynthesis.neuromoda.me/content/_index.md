@@ -22,19 +22,13 @@ title = "FUK Burners"
 based in Fukuoka, Osaka, SF, Silicon Valley, OR, and Las Vegas
 
 
----
 
-# Call To Action
-
-1) Join Camp Synthesis
-2) -or- Create Your Own Camp (happy to advise on this)
-3) -or- Join Palinka Lounge (our sister camp)
 
 ---
 
 ## About: Camp Synthesis
 
-This is the camp.  We are placed at B and 5:45.  The Camp has a Japanese theme, focused on Sushi, Sake, and Synths.  We have DJ decks and sound.  We have some synths.  We run public food and bar events. We have a group from Osaka in camp. 
+This is the camp.  We are placed at B and 5:45.  The Camp has a Japanese theme, focused on Sushi, Sake, and Synths.  We have DJ decks and sound.  We have some synths.  We run public food and bar events. We have a group from Osaka in camp.
 
 Looking for:
 
@@ -45,6 +39,17 @@ People to get involved with the events (1-2 for the week).  Put in some funds fo
 ## About: More details about camp
 
 We don't have dues if you get involved.  If you just want to show up, we ask for $500 per camper in advance to cover infrasturcture costs (sake, sushi, logistics).  Please plan to be self sufficient. We don't run the sushi bar as a cafeteria for camp.  It's too complicated to do that.  Bring your food, and if you help with events, there is always food available. 
+
+---
+
+# Call To Action
+
+Burning Man 2025
+
+0) Visit us at B and 5:45
+1) Join Camp Synthesis
+2) -or- Create Your Own Camp (happy to advise on this)
+3) -or- Join Palinka Lounge (our sister camp)
 
 ---
 
