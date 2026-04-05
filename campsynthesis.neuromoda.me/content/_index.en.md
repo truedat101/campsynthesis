@@ -15,7 +15,7 @@ title = "Camp Synthesis"
 
 ### 🌐 Language / 言語
 
-### [日本語](/) &nbsp;|&nbsp; **[English](#/1)**
+### <a href="/index.html">日本語</a> &nbsp;|&nbsp; <strong>English</strong>
 
 ---
 

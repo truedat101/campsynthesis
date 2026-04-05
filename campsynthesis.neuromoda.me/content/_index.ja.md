@@ -16,7 +16,7 @@ title = "キャンプ・シンセシス"
 
 ### 🌐 言語 / Language
 
-### **[日本語](#/1)** &nbsp;|&nbsp; [English](/en/)
+### <strong>日本語</strong> &nbsp;|&nbsp; <a href="/en/index.html">English</a>
 
 ---
 
