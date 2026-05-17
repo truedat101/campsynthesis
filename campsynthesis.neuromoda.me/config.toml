@@ -25,3 +25,8 @@ isHTML = true
     languageCode = "en-us"
     weight = 2
     title = "Camp Synthesis"
+  [languages.fr]
+    languageName = "Français"
+    languageCode = "fr"
+    weight = 3
+    title = "Camp Synthesis"

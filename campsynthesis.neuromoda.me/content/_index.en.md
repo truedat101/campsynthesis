@@ -13,9 +13,9 @@ title = "Camp Synthesis"
 
 <br>
 
-### 🌐 Language / 言語
+### 🌐 Language / 言語 / Langue
 
-### <a href="/index.html">日本語</a> &nbsp;|&nbsp; <strong>English</strong>
+### <a href="/index.html">日本語</a> &nbsp;|&nbsp; <strong>English</strong> &nbsp;|&nbsp; <a href="/fr/index.html">Français</a>
 
 ---
 
@@ -167,6 +167,71 @@ http://regionals.burningman.org/regionals/asia/japan/
 ## Burning Man: August 29 – September 26, 2026
 
 ## This happens every year
+
+---
+
+# Glou Glou Art
+
+## Our Partner Camp
+
+### Natural wine, art & culture — Paris, France
+
+---
+
+## Wine is alive.
+
+Natural wine is ancestral. For thousands of years, wine was simply fermented grape juice — made locally, by hand, without additives.
+
+> Glou Glou Art sits at the intersection of craft, agriculture, culinary culture, and contemporary art.
+
+We bring this spirit of living culture to Black Rock City in a way that is inclusive, participatory, and aligned with Burning Man's principles.
+
+---
+
+## The Experience
+
+**The blind tasting ritual** — Each newcomer is welcomed through a blind tasting of one conventional wine and one natural wine, followed by a guided discovery of three to four natural wines.
+
+**The wine art gallery** — A curated art gallery connected to wine culture and the broader theme of transformation. 5+ artists whose pieces can exist in Black Rock City conditions.
+
+**The collaborative painting** — Leftover wine from tastings is collected and used as pigment. The piece grows day after day — transforming remains into a communal creation.
+
+---
+
+## The Winemakers
+
+### La Sauvagere — Loire, Anjou (Nico & Lili)
+
+Rare and classic grape varieties from old vines. Manual and late harvests. Everything is done without sulfur, by gravity and by hand.
+
+### Domaine des Roches — Loire, Chinon (Jerome Lenoir)
+
+Mostly Cabernet Franc. No pesticides, no herbicides. The wines take their time in old wooden vessels before going into bottle.
+
+---
+
+## The Artists
+
+**Yo Picolo** (Photography) — His wine macros reveal unknown worlds inside every drop — galactic, mineral, alive.
+
+**Nicotcha** (Illustration) — He blends traditional tattooing with wine culture — totem bottles, hands that hold firm, wines that explode.
+
+\+ More artists to be revealed on the playa.
+
+---
+
+## Glou Glou Art Team
+
+**Majdi Toumi** (Dinobaby) — Co-founder
+
+**Romain Dausset** (Octo) — Co-founder
+
+- **Hometown** — Paris, France
+- **Camp size** — 4 campmates, all committed to interactivity
+- **Status** — Returning camp
+- **Part of** — HUB / Village camps with shared resources
+- **Preferred** — 4:30 or 6:00 sector — near Palinka and Synthesis Hub
+- **Contact** — bonjour@glouglou.art | www.glouglou.art
 
 ---
 
