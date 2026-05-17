@@ -5,6 +5,7 @@ title = "Camp Synthesis"
 +++
 
 {{< slide transition="zoom" transition-speed="fast" >}}
+
 # CampSynthesis
 
 (FUK火Burners + Tasogare)
@@ -122,64 +123,29 @@ Nous prevoyons un evenement style Burning Man dans la region de Fukuoka. Dates a
 
 ## Notre Camp Partenaire
 
-### Vin nature, art & culture — Paris, France
+### Vin nature et art
+
+#### Paris, France
 
 ---
 
-## Le vin est vivant.
+## L'experience Glou Glou
 
-Le vin nature est ancestral. Pendant des milliers d'annees, le vin etait simplement du jus de raisin fermente — produit localement, a la main, sans additifs.
+#### Degustation a l'aveugle
 
-> Glou Glou Art se situe a l'intersection de l'artisanat, de l'agriculture, de la culture culinaire et de l'art contemporain.
+#### Galerie d'art du vin
 
-Nous amenons cet esprit de culture vivante a Black Rock City de maniere inclusive, participative, et alignee avec les principes du Burning Man.
-
----
-
-## L'experience
-
-**Le rituel de la degustation a l'aveugle** — Chaque nouvel arrivant est accueilli par une degustation a l'aveugle d'un vin conventionnel et d'un vin nature, suivie d'une decouverte guidee de trois a quatre vins nature.
-
-**La galerie d'art du vin** — Une galerie en lien avec la culture du vin et le theme de la transformation. Plus de 5 artistes exposes.
-
-**La peinture collaborative** — Le vin restant des degustations est collecte et utilise comme pigment. L'oeuvre grandit jour apres jour — transformant les restes en creation communautaire.
+#### Peinture collaborative
 
 ---
 
-## Les Vignerons
+## Equipe
 
-### La Sauvagere — Loire, Anjou (Nico & Lili)
+**Majdi** / Dinobaby & **Romain** / Octo
 
-Cepages rares issus de vieilles vignes. Vendanges manuelles et tardives. Tout se fait sans soufre, par gravite et a la main.
+Paris / Tours, France
 
-### Domaine des Roches — Loire, Chinon (Jerome Lenoir)
-
-Principalement du Cabernet Franc. Pas de pesticides, pas d'herbicides. Les vins prennent leur temps en futs avant la mise en bouteille.
-
----
-
-## Les Artistes
-
-**Yo Picolo** (Photographie) — Ses macros de vin revelent des mondes inconnus dans chaque goutte — galactiques, mineraux, vivants.
-
-**Nicotcha** (Illustration) — Il mele le tatouage traditionnel a la culture du vin — bouteilles totems, mains qui tiennent ferme, vins qui explosent.
-
-\+ D'autres artistes seront reveles sur la playa.
-
----
-
-## Equipe Glou Glou Art
-
-**Majdi Toumi** (Dinobaby) — Co-Fondateur
-
-**Romain Dausset** (Octo) — Co-Fondateur
-
-- **Ville** — Paris, France
-- **Taille** — 4 campeurs, tous engages dans l'interactivite
-- **Statut** — Camp de retour
-- **Fait partie de** — HUB / Camps village avec ressources partagees
-- **Preference** — Secteur 4:30 ou 6:00 — pres de Palinka et Synthesis Hub
-- **Contact** — bonjour@glouglou.art | www.glouglou.art
+**www.glouglou.art**
 
 ---
 
@@ -187,10 +153,10 @@ Principalement du Cabernet Franc. Pas de pesticides, pas d'herbicides. Les vins 
 
 ## Burning Man 2026
 
-0) Rendez-nous visite a **B et 5:45**
-1) Rejoignez Camp Synthesis
-2) -ou- Creez votre propre camp (nous pouvons vous conseiller)
-3) -ou- Rejoignez Palinka Lounge (notre camp partenaire)
+0. Rendez-nous visite a **B et 5:45**
+1. Rejoignez Camp Synthesis
+2. -ou- Creez votre propre camp (nous pouvons vous conseiller)
+3. -ou- Rejoignez Palinka Lounge (notre camp partenaire)
 
 ---
 
