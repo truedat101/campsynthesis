@@ -14,9 +14,9 @@ title = "キャンプ・シンセシス"
 
 <br>
 
-### 🌐 言語 / Language
+### 🌐 言語 / Language / Langue
 
-### <strong>日本語</strong> &nbsp;|&nbsp; <a href="/en/index.html">English</a>
+### <strong>日本語</strong> &nbsp;|&nbsp; <a href="/en/index.html">English</a> &nbsp;|&nbsp; <a href="/fr/index.html">Français</a>
 
 ---
 
@@ -168,6 +168,36 @@ http://regionals.burningman.org/regionals/asia/japan/
 ## 2026年8月29日 〜 9月26日 - バーニングマン本番
 
 ## 毎年開催されます
+
+---
+
+# Glou Glou Art
+
+## パートナーキャンプ
+
+### ナチュラルワインとアート
+
+#### パリ、フランス
+
+---
+
+## Glou Glou 体験
+
+#### ブラインドテイスティング
+
+#### ワインアートギャラリー
+
+#### コラボペインティング
+
+---
+
+## チーム
+
+**Majdi** / Dinobaby & **Romain** / Octo
+
+パリ / トゥール、フランス
+
+**www.glouglou.art**
 
 ---
 

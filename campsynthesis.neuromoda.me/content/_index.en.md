@@ -13,9 +13,9 @@ title = "Camp Synthesis"
 
 <br>
 
-### 🌐 Language / 言語
+### 🌐 Language / 言語 / Langue
 
-### <a href="/index.html">日本語</a> &nbsp;|&nbsp; <strong>English</strong>
+### <a href="/index.html">日本語</a> &nbsp;|&nbsp; <strong>English</strong> &nbsp;|&nbsp; <a href="/fr/index.html">Français</a>
 
 ---
 
@@ -167,6 +167,36 @@ http://regionals.burningman.org/regionals/asia/japan/
 ## Burning Man: August 29 – September 26, 2026
 
 ## This happens every year
+
+---
+
+# Glou Glou Art
+
+## Our Partner Camp
+
+### Natural wine and art
+
+#### Paris, France
+
+---
+
+## The Glou Glou Experience
+
+#### Blind tasting
+
+#### Wine art gallery
+
+#### Collaborative painting
+
+---
+
+## Team
+
+**Majdi** / Dinobaby & **Romain** / Octo
+
+Paris / Tours, France
+
+**www.glouglou.art**
 
 ---
 
